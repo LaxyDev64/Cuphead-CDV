@@ -1,3 +1,2 @@
-# cuphead-cdv-web
-Browser version of Cuphead CDV
-
+Cuphead CDV
+created by andrew dev and continued by me and my team
