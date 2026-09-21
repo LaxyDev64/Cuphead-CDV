@@ -2,11 +2,11 @@
 
 A **Cuphead** fangame built on the **Booty5/Cordova** engine.
 
-## 📖 Description
+## Description
 
 Cuphead CDV is a fangame originally created by **IdrewDev** and currently continued and maintained by **Lax Studios**, built with Booty5 (an HTML5/Canvas-based 2D game engine) and packaged with Cordova for cross-platform deployment.
 
-## ✨ Features
+## Features
 
 - Full achievement system with 28 achievements
 - Multilingual support across 7 languages
@@ -14,13 +14,13 @@ Cuphead CDV is a fangame originally created by **IdrewDev** and currently contin
 - Toast notifications on achievement unlock
 - Built on the Booty5/Cordova engine, sharing its technical base with [Pac-Man Dash](https://github.com/LaxyDev64/pacman-dash)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Engine:** Booty5 (HTML5/Canvas)
 - **Packaging:** Apache Cordova
 - **Language:** JavaScript
 
-## 🚀 Installation
+## Installation
 
 ```bash
 git clone https://github.com/LaxyDev64/Cuphead-CDV.git
@@ -28,7 +28,7 @@ cd Cuphead-CDV
 npm install
 ```
 
-## ▶️ Running
+## Running
 
 ```bash
 cordova run browser
@@ -36,14 +36,14 @@ cordova run browser
 
 Or open `index.html` directly in a browser for quick testing.
 
-## 📦 Build
+## Build
 
 ```bash
 cordova build android
 cordova build ios
 ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Cuphead-CDV/
@@ -53,19 +53,19 @@ Cuphead-CDV/
 └── README.md
 ```
 
-## 🙏 Credits
+## Credits
 
 - **Original creator:** IdrewDev
 - **Maintenance and continuation:** Lax Studios ([LaxyDev64](https://github.com/LaxyDev64))
 
-## 🤝 Contributing
+## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
 
-## 📄 License
+## License
 
 This project is a non-commercial fan project. Cuphead is a registered trademark of Studio MDHR. All original code in this repository is distributed under the MIT license (adjust as appropriate).
 
-## 🔗 Related Projects
+##  Related Projects
 
 - [Pac-Man Dash](https://github.com/LaxyDev64/pacman-dash) — Lax Studios endless runner built on the same Booty5/Cordova engine
