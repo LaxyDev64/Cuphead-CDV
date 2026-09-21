@@ -1,14 +1,14 @@
 Cuphead CDV
 A Cuphead fangame built on the Booty5/Cordova engine.
-📖 Description
+--Description--
 Cuphead CDV is a fangame originally created by IdrewDev and currently continued and maintained by Lax Studios, built with Booty5 (an HTML5/Canvas-based 2D game engine) and packaged with Cordova for cross-platform deployment.
-✨ Features
+--Features--
 Full achievement system with 28 achievements
 Multilingual support across 7 languages
 In-scene achievements panel
 Toast notifications on achievement unlock
 Built on the Booty5/Cordova engine, sharing its technical base with Pac-Man Dash
-🛠️ Tech Stack
+--Tech Stack--
 Engine: Booty5 (HTML5/Canvas)
 Packaging: Apache Cordova
 Language: JavaScript
