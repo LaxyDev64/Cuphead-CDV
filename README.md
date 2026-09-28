@@ -66,6 +66,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 This project is a non-commercial fan project. Cuphead is a registered trademark of Studio MDHR. All original code in this repository is distributed under the MIT license (adjust as appropriate).
 
-##  Related Projects
+## Related Projects Use Booty5/Cordova engine
 
 - [Pac-Man Dash](https://github.com/LaxyDev64/pacman-dash) — Lax Studios endless runner built on the same Booty5/Cordova engine
